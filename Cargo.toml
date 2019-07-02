@@ -3,6 +3,8 @@ name = "minigrep_test"
 version = "0.1.0"
 authors = ["GXwar <richardxulh@gmail.com>"]
 edition = "2018"
+description = "A command line tool"
+license = "MIT"
 
 [dependencies]
 
